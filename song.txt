@@ -9,3 +9,5 @@ string 7
 string 8
 
 This will be committed to feature branch
+
+One more commit
