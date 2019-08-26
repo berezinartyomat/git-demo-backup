@@ -1,9 +1,5 @@
-string 1
-string 2
-string 3
-string 4
-
-string 5
-string 6
-string 7
-string 8
+1
+2
+3
+4
+Commit for feature branch
